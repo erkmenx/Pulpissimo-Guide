@@ -9,3 +9,9 @@ Pulpissimo'nun implementasyonu için bu adımları uygulamanız, yüksek olasıl
 Sorularınız için erkmen17@itu.edu.tr
 
 (EN)
+
+This document explains step by step from 0 to running C code on PULPissimo booted FPGA board.
+
+Implementation of these steps probably enough to make it work.
+
+For your questions: erkmen17@itu.edu.tr
