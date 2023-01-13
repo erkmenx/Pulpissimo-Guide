@@ -1,5 +1,4 @@
-# Pulpissimo-Guide
-
+# PULPissimo Installation Guide
 (TR) 
 
 Pulpissimo mikrokontrolcüsünün 0'dan içerisinde C kodu koşturmaya kadar tüm adımları reponun içerisindeki PDF'te Türkçe biçimde anlatılmıştır.
