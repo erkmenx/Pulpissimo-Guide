@@ -13,7 +13,10 @@ This document is the guide of "step by step from 0 to running C code on PULPissi
 
 Implementation of these steps probably enough to make it work.
 
-For your questions: erkmen17@itu.edu.tr
+For your questions: 
+    
+    erkmen17@itu.edu.tr
+    vatansever17@itu.edu.tr
 
 
 ------------------------------------------ CMAKE PROBLEM ----------------------------------------------------------------
